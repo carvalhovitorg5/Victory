@@ -1,0 +1,62 @@
+[
+  {
+    "id": "seed_1",
+    "userId": "seed_u1",
+    "nickname": "BaierDoGoiás",
+    "mode": "LEGEND",
+    "formation": "4-3-3",
+    "totalGoals": 433,
+    "difference": 0,
+    "isExact": true,
+    "date": "2026-10-17",
+    "timestamp": 1792231575560
+  },
+  {
+    "id": "seed_2",
+    "userId": "seed_u2",
+    "nickname": "CeniArtilheiro",
+    "mode": "CLASSIC",
+    "formation": "4-4-2",
+    "totalGoals": 434,
+    "difference": 1,
+    "isExact": false,
+    "date": "2026-10-17",
+    "timestamp": 1792227975560
+  },
+  {
+    "id": "seed_3",
+    "userId": "seed_u3",
+    "nickname": "ReiDoPontosCorridos",
+    "mode": "CLASSIC",
+    "formation": "3-4-3",
+    "totalGoals": 712,
+    "difference": 279,
+    "isExact": false,
+    "date": "2026-10-17",
+    "timestamp": 1792224375560
+  },
+  {
+    "id": "seed_4",
+    "userId": "seed_u4",
+    "nickname": "MuralhaTricolor",
+    "mode": "CLASSIC",
+    "formation": "4-5-1",
+    "totalGoals": 435,
+    "difference": 2,
+    "isExact": false,
+    "date": "2026-10-17",
+    "timestamp": 1792220775560
+  },
+  {
+    "id": "seed_5",
+    "userId": "seed_u5",
+    "nickname": "FredGoleador",
+    "mode": "CLASSIC",
+    "formation": "3-5-2",
+    "totalGoals": 654,
+    "difference": 221,
+    "isExact": false,
+    "date": "2026-10-17",
+    "timestamp": 1792217175560
+  }
+]

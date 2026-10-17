@@ -1,0 +1,6 @@
+{
+  "name": "Brasileirão 433 - Jogo dos Gols",
+  "description": "Jogo de cartas e draft tático do Brasileirão de pontos corridos. Monte sua escalação e alcance a meta de 433 gols com craques históricos e cartas lendárias douradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
